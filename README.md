@@ -7,6 +7,7 @@ I develop what interests me.
 
 <div align="center"> 
 
+<!--
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -31,9 +32,11 @@ I develop what interests me.
   
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  
+
 <br/>
 <br/>
+
+-->
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developdog&show_icons=true&theme=dark)
   
